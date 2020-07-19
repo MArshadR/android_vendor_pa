@@ -1,0 +1,7 @@
+  {
+        "remote":       "github",
+        "repository":   "vendor/xiaomi/umi",
+        "target_path":  "vendor/xiaomi/umi",
+        "revision":     "lineage-17.1"
+    }
+]
